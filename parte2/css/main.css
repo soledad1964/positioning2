@@ -1,1 +1,26 @@
-/* Inserta tu CSS aqui */
+.body {
+      	margin: 0px;
+      	padding: 0px;
+      }
+
+.azul {
+	    width: 250px;
+        height: 250px;
+        position: absolute;
+	    background-color: #005ce6;
+}        
+.verde {
+	    width: 130px;
+        height: 130px;
+        position: absolute;
+	    background-color: #408000;
+	    top: 90px;
+        left: 72px;
+}        
+.negro {
+	    width: 67px;
+        height: 67px;
+        position: relative;
+	    background-color: black;
+	    
+}  
