@@ -1,0 +1,28 @@
+.body
+      {
+      	margin: 0px;
+      	padding: 0px;
+      }
+
+.rosa {
+	    width: 250px;
+        height: 250px;
+        position: absolute;
+	    background-color: #ff4d4d;
+}        
+.lila {
+	    width: 150px;
+        height: 150px;
+        position: absolute;
+	    background-color: #b300b3;
+	    top: 50px;
+	    left: 50px;
+}        
+.amarillo {
+	    width: 100px;
+        height: 100px;
+        position: absolute;
+	    background-color: #ffff00;
+	    top: 50px;
+	    left: 50px;
+}        
